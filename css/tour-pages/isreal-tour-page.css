@@ -1,0 +1,73 @@
+.isrealHero {
+  min-height: 413px;
+  max-width: 981px;
+  background-color: brown;
+  margin: 0 auto;
+  padding-top: 50px;
+}
+
+.isrealImages {
+  margin: 0 auto;
+  padding-top: 40px;
+  max-width: 981px;
+  min-height: 347px;
+  background-color: burlywood;
+  display: flex;
+  justify-content: space-between;
+}
+.isrealImages .isrealPicOne {
+  height: 347px;
+  width: 298px;
+  background-color: cadetblue;
+}
+.isrealImages .isrealPicTwo {
+  height: 347px;
+  width: 298px;
+  background-color: cadetblue;
+}
+.isrealImages .isrealPicThree {
+  height: 347px;
+  width: 298px;
+  background-color: cadetblue;
+}
+
+.isrealDays {
+  padding-top: 30px;
+  flex-direction: column;
+  background-color: red;
+  justify-content: center;
+  margin: 0 auto;
+  align-items: center;
+  min-height: 775px;
+  max-width: 981px;
+}
+.isrealDays .isrealDayOne {
+  max-width: 981px;
+  min-height: 205px;
+  background-color: chocolate;
+  padding-bottom: 100px;
+}
+.isrealDays .isrealDayTwo {
+  padding-top: 100px;
+  max-width: 981px;
+  min-height: 205px;
+  background-color: chocolate;
+}
+.isrealDays .isrealDayThree {
+  max-width: 981px;
+  min-height: 205px;
+  background-color: chocolate;
+}
+
+.block {
+  height: 240px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.block .bookNow {
+  margin: 0 auto;
+  width: 133px;
+  height: 40px;
+  background-color: cornflowerblue;
+}
